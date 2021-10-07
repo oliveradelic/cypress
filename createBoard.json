@@ -1,0 +1,17 @@
+{
+  "organizationNameInput":"input[class='el-input__inner']",
+  "dropdownButton":"i[class='el-input__icon el-icon-caret-top']",
+  "boardTitleInput" : "input[name='name']",
+  "cancelButton" : "button[name='prev_btn']",
+  "nextButton" : "button[name='prev_btn']",
+  "closeButton" : "button[name='close-new-board-modal-btn']",
+  "checkboxScrum" : "span[name='type_scrum']",
+  "checkboxKanban" : "span[name='type_kanban']",
+  "importConfiguration" : "div:nth-of-type(1) > .vs-input-border > .el-select.vs-c-new-board-select > .el-input > .el-input__inner",
+  "importTeamMembers" : "div:nth-of-type(2) > .vs-input-border > .el-select.vs-c-new-board-select > .el-input > .el-icon-caret-top.el-input__icon",
+  "uploadBoardLogoButton" : "svg[slot='dropdown-button']",
+  "deleteLogo" : "div:nth-of-type(21) > .el-dialog__wrapper.vs-c-modal__flex-center > div .vs-c-modal__footer  button[name='delete-btn']",
+  "cancelLogo" : "div:nth-of-type(21) > .el-dialog__wrapper.vs-c-modal__flex-center > div .vs-c-modal__footer  button[name='cancel-btn']",
+  "saveLogo" : "div:nth-of-type(21) > .el-dialog__wrapper.vs-c-modal__flex-center > div .vs-c-modal__footer  button[name='save-btn']"
+
+}
